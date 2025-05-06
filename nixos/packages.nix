@@ -5,9 +5,8 @@
 
   environment.systemPackages = with pkgs; [
     # Desktop apps
-    chromium
+    google-chrome
     firefox    
-    telegram-desktop
     kitty
     alacritty
     obs-studio
@@ -16,14 +15,12 @@
     mpv
     discord
     gparted
-    obsidian
     zoom-us
+    bitwarden-desktop
 
     # Proton Apps
-    proton-pass
     protonvpn-gui
-    protonmail-desktop
-
+    
     # Gaming
     heroic
 
