@@ -17,6 +17,7 @@
     gparted
     zoom-us
     bitwarden-desktop
+    notion-app-enhanced
 
     # Proton Apps
     protonvpn-gui
