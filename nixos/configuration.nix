@@ -10,7 +10,7 @@
 
   disabledModules = [  
     #./modules/xserver.nix
-    ./modules/hyprland.nix
+    #./modules/hyprland.nix
   ];
 
   # Enable Flakes and Nix-command

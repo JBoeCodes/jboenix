@@ -30,11 +30,10 @@
     strawberry
    
     # Coding stuff
-    # python
-    # (python3.withPackages (ps: with ps; [ requests ]))
+    python
+    (python3.withPackages (ps: with ps; [ requests ]))
 
     # CLI utils
-    neofetch
     wget
     git
     fastfetch
@@ -64,7 +63,6 @@
     cliphist
 
     # WMs and stuff
-    herbstluftwm
     hyprland
     seatd
     xdg-desktop-portal-hyprland

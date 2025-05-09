@@ -3,8 +3,7 @@
     # nvidia drivers
     videoDrivers = ["nvidia"];
     enable = true;
-    windowManager.herbstluftwm.enable = true;
-
+    
     # displayManager = {
     #   autoLogin.enable = true;
     #   autoLogin.user = "jboe";
