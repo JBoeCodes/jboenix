@@ -2,6 +2,7 @@
   imports = [
     ./input.nix
     ./bootloader.nix
+    ./fonts.nix
     ./nvdgpu.nix
     ./sound.nix
     ./zram.nix
