@@ -5,7 +5,7 @@
                 let
                         flakePath = "~/nix";
                 in {
-                        rebuild = "sudo nixos-rebuild switch --flake ${flakePath}";
+                        rbd = "sudo nixos-rebuild switch --flake ${flakePath}";
                         hms = "home-manager switch --flake ${flakePath}";
                         n = "nano";
                 };
