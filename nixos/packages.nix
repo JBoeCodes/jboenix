@@ -30,8 +30,8 @@
     strawberry
    
     # Coding stuff
-    python
-    (python3.withPackages (ps: with ps; [ requests ]))
+    #python
+    #(python3.withPackages (ps: with ps; [ requests ]))
 
     # CLI utils
     wget

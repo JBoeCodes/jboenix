@@ -1,3 +1,3 @@
 {
-  wayland.windowManager.hyprland.enable = true;
+  programs.hyprland.enable = true;
 }
